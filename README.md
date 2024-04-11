@@ -35,6 +35,19 @@ Here's an example of how to use ReadWiz:
   <li>Voila! the output will be displayed to you.</li>
 </ol>
 <hr>
+
+<h2>Related:</h2>
+<ul>
+  <li>Research Paper: <a href="https://drive.google.com/file/d/14UtjkH76RGBLpO8zYq9CHuz4hPNaSUZD/view?usp=sharing">Link to Paper</a></li>
+  <li>Video presentation: <a href="https://drive.google.com/file/d/1zoagQHQTJTbjHZiIWg9U3f7h7DrKMT4L/view?usp=sharing">Link to Video</a></li>
+</ul>
+
+<h2>Team Memebers</h2>
+<ol>
+  <li><a href="https://github.com/Manraj29">Manraj Singh Virdi</a> [Team Leader]</li>
+  <li><a href="">Nikhil Dhanwani</a></li>
+  <li><a href="">Chirag Santwani</a></li>
+</ol>
 <h3>We appreciate your contributions!</h3>
 <h3>Project Developed by Group 51</h3>
 <h3>THANK YOU!</h3>
